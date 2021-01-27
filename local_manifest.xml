@@ -5,6 +5,11 @@
            fetch="https://github.com"
            revision="lineage-17.1" />
 
+   <remote  name="ahirearyan2"
+           fetch="https://github.com"
+           revision="lineage-17.1" />
+
+
   <remove-project name="device/generic/arm64"/>
   <remove-project name="device/generic/car"/>
   <remove-project name="LineageOS/android_device_generic_goldfish"/>
