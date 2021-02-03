@@ -26,8 +26,6 @@
 
   <remove-project name="platform/prebuilts/android-emulator" />
 
-  <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
-
   <remove-project name="platform/prebuilts/qemu-kernel"/>
 
   <remove-project name="platform/sdk" />
